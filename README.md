@@ -1,6 +1,9 @@
 # Computer-Design
+
 Type: School Project
+
 Team Size: 2
+
 Objective and Achievements:Designed and implemented
 components of a basic computer system using VeriLog,
 focusing on:
